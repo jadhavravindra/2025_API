@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/test/java/testScript/EmployeeCRUDTest.java">
+        <classes>
+            <class name="testScript.EmployeeCRUDTest">
+                <methods>
+                    <include name="createEmployeeTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/test/java/testScript/VerifyWidgetsTest.java">
+        <classes>
+            <class name="testScript.VerifyWidgetsTest">
+                <methods>
+                    <include name="verifyWidgets"/>
+                    <include name="verifySkillASCOrder"/>
+                    <include name="createSkillAndVerifyInSame"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
