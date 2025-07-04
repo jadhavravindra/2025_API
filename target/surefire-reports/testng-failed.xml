@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/test/java/testScript/VerifyWidgetsTest.java(failed)" verbose="0">
+    <classes>
+      <class name="testScript.VerifyWidgetsTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifySkillASCOrder"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testScript.VerifyWidgetsTest -->
+    </classes>
+  </test> <!-- /home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/test/java/testScript/VerifyWidgetsTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

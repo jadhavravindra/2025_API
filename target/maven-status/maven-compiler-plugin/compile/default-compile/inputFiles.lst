@@ -1,0 +1,13 @@
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/entity/skillDelete/DeletePayload.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/pages/QualificationsSkillPage.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/entity/skillCreate/CreateSkillPayload.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/pages/DashboardPage.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/entity/createEmployee/Data.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/pages/TokenService.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/constants/FileConstants.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/entity/createEmployee/CreateEmployeeJsonPayload.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/utility/GenerateData.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/pages/EmployeeListPage.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/utility/PropertyUtils.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/base/APIControlActions.java
+/home/dell/Documents/Learning/APIs/Doc/MAY25_HRM_API_22June/MAY25_HRM_API/src/main/java/entity/createEmployee/Params.java
