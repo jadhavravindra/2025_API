@@ -31,13 +31,7 @@ jobs:
       - name: Build with Maven
         run: mvn clean test
 
-      - name: Download Artifacts 🔻
-        uses: actions/download-artifact@v4
-        with:
-          name: allure-results
-          path: allure-results
-
-      - name: Checkout GitHub Pages branch (for history)
+      - name: Checkout GitHub Pages branch
         uses: actions/checkout@v4
         if: always()
         continue-on-error: true
